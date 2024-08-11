@@ -13,9 +13,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/yourhandle?style=flat&logo=twitter" alt="Twitter"/></a>
-  <a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/deekshith-ravikoti-b65ba9225/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:prsds10082003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
