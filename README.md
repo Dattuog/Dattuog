@@ -1,315 +1,453 @@
 <div align="center">
 
-# Ravikoti Deekshith
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0A,50:151515,100:2F6FCE&height=190&section=header&text=Ravikoti%20Deekshith&fontSize=42&fontColor=F8F6F1&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20%E2%80%A2%20Security&descAlignY=58&descSize=16"/>
 
-### Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=9A896F&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems;Engineering+AI-powered+applications;Working+on+security+automation+%26+SOAR;Designing+distributed+systems+that+scale" />
 
-**Backend · AI · Security**
-
-Building scalable backend systems, distributed services, AI applications, and security-focused software.
-
-<br>
+<br/>
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/D%2FOS-PORTFOLIO-F8F6F1?style=for-the-badge&labelColor=0B0B0A&color=2F6FCE"/>
 </a>
+
 <a href="https://www.linkedin.com/in/deekshith-ravikoti-b65ba9225/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F8F6F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0A&color=2F6FCE"/>
 </a>
+
 <a href="mailto:prsds10082003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-F8F6F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0A&color=9A896F"/>
 </a>
+
+<a href="https://github.com/dattuog">
+<img src="https://img.shields.io/badge/GITHUB-dattuog-F8F6F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0A&color=333333"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## `> whoami`
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+name: Ravikoti Deekshith
+role: Software Engineer
+
+current:
+  Backend Developer
+  C3iHub, IIT Kanpur
+
+focus:
+  - Backend Engineering
+  - AI / LLM Systems
+  - Security Engineering
+  - Distributed Systems
+```
+
+</td>
+
+<td width="50%">
+
+```yaml
+engineering:
+  - REST APIs
+  - Microservices
+  - System Design
+  - SOAR Automation
+  - RAG / AI Agents
+
+interests:
+  - Scalable Systems
+  - Developer Tools
+  - Cybersecurity
+  - LLM Applications
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **Building reliable systems across Backend · AI · Security**
 
 </div>
 
 ---
 
-## Engineering Profile
+# `~/experience`
 
-```javascript
-const deekshith = {
-  role: "Software Engineer",
+<table>
+<tr>
+<td width="33%" valign="top">
 
-  focus: [
-    "Backend Engineering",
-    "AI Systems",
-    "Security Engineering"
-  ],
+### 🛡️ C3iHub, IIT Kanpur
 
-  current: "Backend Developer — C3iHub, IIT Kanpur",
+**Backend Developer — SOC**
 
-  strengths: [
-    "Distributed Systems",
-    "REST APIs",
-    "System Design",
-    "LLM Applications",
-    "Security Automation"
-  ]
-};
-```
+`Jun 2026 → Present`
 
-I am a **Software Engineer focused on backend systems, AI applications, and security engineering**.
+<br>
 
-My work spans scalable APIs, distributed services, workflow automation, cybersecurity platforms, LLM-powered systems, and production engineering.
+⚙️ SOAR backend systems
 
-Currently, I work as a **Backend Developer at C3iHub, IIT Kanpur**, where I contribute to backend infrastructure and SOAR capabilities for security workflow automation and incident response.
+🗄️ PostgreSQL migrations
 
----
+🔐 Security automation
 
-## Experience
+🔌 Tool integrations
 
-### C3iHub, IIT Kanpur
+</td>
 
-**Backend Developer — Security Operations Center (SOC)**
-`June 2026 — Present · Kanpur`
+<td width="33%" valign="top">
 
-* Deployed production-ready PostgreSQL migrations for reliable schema updates across critical SOC backend services.
-* Improved database consistency through structured, version-controlled migration and deployment workflows.
-* Building scalable **SOAR backend capabilities** for security workflow automation, incident response, and security-tool integrations.
-
----
-
-### Seekvens.ai
+### 🤖 Seekvens.ai
 
 **Software Engineer Intern**
-`May 2025 — July 2025 · Remote · Dallas, TX`
 
-* Scaled insider-threat detection to process **100K+ log events** through distributed Cribl pipelines across AWS EC2 environments.
-* Reduced irrelevant security logs by **80%+** using custom JavaScript filters and an AI-powered security analytics dashboard.
-* Engineered an **LLM-powered Threat Scoring Engine** using custom risk-scoring algorithms.
-* Built real-time **Voice AI interview agents using LiveKit**, reducing projected manual screening effort by **70%**.
-* Improved candidate evaluation precision by **35%** through sentiment analysis and workflow automation using n8n.
+`May 2025 → Jul 2025`
 
----
+<br>
 
-### Edvenswa Tech
+📊 **100K+** log events
+
+📉 **80%+** noise reduction
+
+🧠 LLM Threat Scoring
+
+🎙️ Voice AI agents
+
+⚡ n8n automation
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏥 Edvenswa Tech
 
 **Software Engineer Intern**
-`December 2024 — January 2025 · Hyderabad`
 
-* Designed and integrated a **RAG pipeline over medical records** for clinical decision support.
-* Built OCR-based PDF processing pipelines to enable LLM processing of clinical documents.
-* Designed and deployed a Streamlit healthcare recommendation interface, improving proof-of-concept efficiency by **30%+**.
+`Dec 2024 → Jan 2025`
 
----
+<br>
 
-## Selected Projects
+🧠 Healthcare RAG
 
-### PAMA — Personal AI Memory Agent
+📄 OCR PDF pipelines
 
-`Python · FastAPI · ChromaDB · Docker · RAG · LLM`
+⚕️ Clinical AI systems
 
-A personal AI memory system designed to automatically store, retrieve, rank, and surface contextual memories for grounded LLM responses.
+📈 **30%+** PoC efficiency
 
-**Engineering highlights**
-
-* Built a RAG pipeline indexing **2,000+ memory entries** in ChromaDB.
-* Generated grounded responses using **Groq Llama 3.3 70B**.
-* Designed **70:30 relevance-to-recency reranking**.
-* Implemented a **7-day temporal half-life** for memory ranking.
-* Designed modular vector-store, embedding, and LLM layers for provider portability.
-* Built autonomous memory-agent capabilities including reminders, self-review, and multi-step query decomposition.
+</td>
+</tr>
+</table>
 
 ---
 
-### Distributed Rate Limiter
+# `~/featured-projects`
 
-`Node.js · Redis · Express · Lua · System Design`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A distributed rate-limiting middleware designed for horizontally scaled backend services.
+## 🧠 PAMA
 
-**Engineering highlights**
+### Personal AI Memory Agent
 
-* Implemented **Fixed Window, Sliding Window, and Token Bucket** strategies.
-* Sustained **800+ requests/sec** across three horizontally scaled Node.js instances.
-* Eliminated concurrency race conditions using **atomic Redis Lua scripts**.
-* Implemented tiered, per-API-key thresholds and rate-limit response headers.
-* Load tested with **50K+ distributed requests**.
-* Maintained **under 5 ms average latency overhead**.
-* Reduced abusive/excess traffic by approximately **35%**.
+`Python` `FastAPI` `ChromaDB` `Docker` `RAG`
+
+<br>
+
+A personal AI memory system that retrieves and ranks contextual memories for grounded LLM responses.
+
+<br>
+
+**02K+** memories indexed
+
+**70:30** relevance / recency ranking
+
+**7-day** temporal half-life
+
+**3-layer** modular architecture
+
+<br>
+
+<a href="YOUR_PAMA_REPO_URL">
+<img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Distributed Rate Limiter
+
+### Scalable API Protection
+
+`Node.js` `Redis` `Express` `Lua` `System Design`
+
+<br>
+
+Distributed rate-limiting middleware built for horizontally scaled backend services.
+
+<br>
+
+**800+ req/s**
+
+**3** Node.js instances
+
+**50K+** distributed load test
+
+**< 5 ms** latency overhead
+
+<br>
+
+<a href="YOUR_RATE_LIMITER_REPO_URL">
+<img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 💬 Full-Stack Chat
+
+### Real-Time Communication Platform
+
+`React` `Node.js` `Socket.io` `MongoDB` `Zustand`
+
+<br>
+
+Real-time messaging platform with authentication, media sharing and concurrent-user support.
+
+<br>
+
+⚡ Real-time Socket.io messaging
+
+🔐 Authentication
+
+🖼️ Image sharing
+
+🌐 REST APIs
+
+<br>
+
+<a href="YOUR_CHAT_APP_REPO_URL">
+<img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 YesManTest
+
+### RAG Reliability Benchmarking
+
+`LangChain` `ChromaDB` `RAG` `RAGAS`
+
+<br>
+
+Evaluation framework for studying hallucination and sycophancy in Retrieval-Augmented Generation systems.
+
+<br>
+
+🧠 Hallucination analysis
+
+🔎 Retrieval evaluation
+
+📊 RAGAS metrics
+
+🤖 LLM behaviour testing
+
+<br>
+
+<a href="YOUR_YESMANTEST_REPO_URL">
+<img src="https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Full-Stack Chat Application
+# `~/stack`
 
-`React · Node.js · MongoDB · Socket.io · Zustand · REST APIs`
-
-A real-time communication platform with authentication, live messaging, and media-sharing capabilities.
-
-**Features**
-
-* User authentication and account management.
-* Real-time messaging using Socket.io.
-* Image uploads and media sharing.
-* REST API integration.
-* State management using Zustand.
-* Concurrent-user support.
-* Production deployment architecture.
-
----
-
-### YesManTest
-
-`LangChain · ChromaDB · RAG · RAGAS · LLM Evaluation`
-
-An experimental evaluation system focused on measuring **hallucination and sycophancy in Retrieval-Augmented Generation systems**.
-
-**Focus areas**
-
-* RAG evaluation.
-* Hallucination analysis.
-* Sycophancy testing.
-* Retrieval quality.
-* LLM response evaluation.
-
----
-
-## Technical Stack
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" alt="Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark"/>
 
-`Java` · `Python` · `C++` · `JavaScript`
+<br/><br/>
 
----
+### Backend
 
-### Backend Engineering
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/>
-</p>
+<br/><br/>
 
-`Node.js` · `Express` · `FastAPI` · `REST APIs` · `Microservices` · `Job Queues`
+### Databases
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark"/>
+
+<br/><br/>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
 
-`React` · `HTML` · `CSS` · `Tailwind CSS`
-
----
-
-### Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases"/>
-</p>
-
-`MongoDB` · `MySQL` · `Redis` · `PostgreSQL` · `ChromaDB`
-
----
+<br/><br/>
 
 ### Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" alt="Cloud and DevOps"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux&theme=dark"/>
 
-`AWS` · `EC2` · `S3` · `IAM` · `Docker` · `Kubernetes` · `CI/CD` · `Git`
-
----
+<br/><br/>
 
 ### AI / LLM Engineering
 
-`RAG` · `LangChain` · `ChromaDB` · `LLM Applications` · `AI Agents` · `n8n` · `Groq` · `Claude` · `Ollama`
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n"/>
+<img src="https://img.shields.io/badge/LLM_Applications-111111?style=for-the-badge"/>
+
+</div>
 
 ---
 
-### Engineering & Systems
-
-`Distributed Systems` · `System Design` · `Operating Systems` · `Computer Networks` · `Databases` · `Unit Testing` · `Integration Testing` · `Code Review` · `Static Analysis`
-
----
-
-## Current Focus
+# `~/engineering-focus`
 
 ```text
-Backend Engineering
-├── Distributed Services
-├── REST APIs
-├── Database Architecture
-├── Microservices
-└── System Design
+┌──────────────────────┐
+│ BACKEND ENGINEERING  │
+└──────────┬───────────┘
+           │
+           ├── REST APIs
+           ├── Distributed Systems
+           ├── Microservices
+           ├── Database Architecture
+           └── System Design
 
-AI Engineering
-├── Retrieval-Augmented Generation
-├── LLM Applications
-├── AI Agents
-├── Evaluation
-└── Workflow Automation
+┌──────────────────────┐
+│    AI ENGINEERING    │
+└──────────┬───────────┘
+           │
+           ├── RAG
+           ├── AI Agents
+           ├── LLM Applications
+           ├── Evaluation
+           └── Workflow Automation
 
-Security Engineering
-├── SOC Platforms
-├── SOAR
-├── Threat Analysis
-├── Security Automation
-└── Event Processing
-
-Cloud & Infrastructure
-├── AWS
-├── Docker
-├── Kubernetes
-└── CI/CD
+┌──────────────────────┐
+│ SECURITY ENGINEERING │
+└──────────┬───────────┘
+           │
+           ├── SOC Platforms
+           ├── SOAR
+           ├── Threat Analysis
+           ├── Event Processing
+           └── Security Automation
 ```
 
 ---
 
-## Competitive Programming
+# `~/competitive-programming`
 
-```text
-LeetCode
-└── Knight
-    ├── Max Rating: 2036
-    ├── Top 2.1% globally
-    └── Global Rank 257 / 29,000 — Biweekly Contest 160
+<div align="center">
 
-Codeforces
-└── Expert
-    ├── Max Rating: 1625
-    └── Rank 373 — Div. 3 Round 974
+<table>
+<tr>
 
-CodeChef
-└── 4 Star
-    ├── Max Rating: 1813
-    └── Rank 155 / 1845 — Starters 151
+<td align="center" width="25%">
 
-DSA
-└── 1500+ problems solved
-```
+### 🏆 LeetCode
+
+**Knight**
+
+`2036`
+
+Top **2.1%**
+
+</td>
+
+<td align="center" width="25%">
+
+### 💙 Codeforces
+
+**Expert**
+
+`1625`
+
+Max Rating
+
+</td>
+
+<td align="center" width="25%">
+
+### ⭐ CodeChef
+
+**4 Star**
+
+`1813`
+
+Max Rating
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥 DSA
+
+**1500+**
+
+Problems Solved
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Education
+# `~/education`
+
+<div align="center">
 
 ### Indian Institute of Technology (BHU), Varanasi
 
 **B.Tech — Civil Engineering (Dual Degree)**
-`GPA: 8.46 / 10`
 
-Alongside my academic program, I have focused extensively on:
+### `GPA 8.46 / 10`
 
-* Software Engineering
-* Data Structures & Algorithms
-* Backend Development
-* Distributed Systems
-* Artificial Intelligence
-* Cloud Infrastructure
-* Cybersecurity Engineering
+</div>
 
 ---
 
-## D/OS — Personal Portfolio
+# `~/d-os`
 
-My personal portfolio is being built as an interactive **browser-based operating system experience**.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Instead of navigating through conventional portfolio sections, visitors interact with applications inside **D/OS**.
+## D/OS
+
+### My portfolio, built like an operating system.
+
+Instead of scrolling through a traditional developer portfolio, visitors explore my work through applications running inside a browser-based OS.
 
 ```text
 D/OS
@@ -319,102 +457,117 @@ D/OS
 ├── Experience
 ├── Projects
 ├── Education
-├── Contact
 │
 ├── Finder
 ├── Terminal
 ├── Web
-├── Notes
 ├── Search
 │
 └── Resident Assistant
 ```
 
-The interface includes:
+</td>
 
-* draggable and resizable application windows
-* desktop application icons
-* Dock-based application switching
-* Spotlight-style search
-* virtual filesystem
-* interactive terminal
-* dedicated project explorer
-* traditional Web portfolio inside the OS
-* interactive Resident assistant
-* responsive desktop/mobile interaction models
+<td width="45%" valign="top">
 
-**Portfolio:** [Visit D/OS](YOUR_PORTFOLIO_URL)
+### System Features
 
----
+`✓` Draggable windows
 
-## GitHub Activity
+`✓` Resizable applications
 
-<div align="center">
+`✓` Desktop icons
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=dattuog&show_icons=true&hide_border=true&theme=transparent"
-alt="Deekshith's GitHub Stats"
-/>
+`✓` Application Dock
 
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=dattuog&hide_border=true&theme=transparent"
-alt="GitHub Streak"
-/>
+`✓` Spotlight search
 
-</div>
+`✓` Virtual filesystem
+
+`✓` Interactive terminal
+
+`✓` Resident assistant
+
+`✓` Traditional Web portfolio
 
 <br>
 
-<div align="center">
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/LAUNCH_D%2FOS-2F6FCE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattuog&layout=compact&hide_border=true&theme=transparent"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-## Connect
-
-<table>
-<tr>
-<td><strong>Portfolio</strong></td>
-<td><a href="YOUR_PORTFOLIO_URL">D/OS Portfolio</a></td>
-</tr>
-
-<tr>
-<td><strong>LinkedIn</strong></td>
-<td><a href="https://www.linkedin.com/in/deekshith-ravikoti-b65ba9225/">linkedin.com/in/deekshith-ravikoti-b65ba9225</a></td>
-</tr>
-
-<tr>
-<td><strong>GitHub</strong></td>
-<td><a href="https://github.com/dattuog">github.com/dattuog</a></td>
-</tr>
-
-<tr>
-<td><strong>Email</strong></td>
-<td><a href="mailto:prsds10082003@gmail.com">prsds10082003@gmail.com</a></td>
+</td>
 </tr>
 </table>
 
 ---
 
+# `~/github`
+
 <div align="center">
 
-### Ravikoti Deekshith
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dattuog&show_icons=true&hide_border=true&bg_color=0B0B0A&title_color=F8F6F1&text_color=9A896F&icon_color=2F6FCE"/>
 
-**Software Engineer · Backend · AI · Security**
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dattuog&hide_border=true&background=0B0B0A&stroke=9A896F&ring=2F6FCE&fire=2F6FCE&currStreakLabel=F8F6F1&sideLabels=9A896F&currStreakNum=F8F6F1&sideNums=F8F6F1"/>
 
-<sub>Building reliable systems that scale.</sub>
+<br/><br/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dattuog&label=Profile%20Views&color=111111&style=flat-square" alt="Profile views"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattuog&layout=compact&hide_border=true&bg_color=0B0B0A&title_color=F8F6F1&text_color=9A896F"/>
 
 </div>
+
+---
+
+# `~/activity`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dattuog&bg_color=0B0B0A&color=F8F6F1&line=2F6FCE&point=9A896F&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `~/connect`
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/D%2FOS-Portfolio-2F6FCE?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deekshith-ravikoti-b65ba9225/">
+<img src="https://img.shields.io/badge/LinkedIn-Deekshith_Ravikoti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dattuog">
+<img src="https://img.shields.io/badge/GitHub-dattuog-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:prsds10082003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-prsds10082003-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dattuog&label=PROFILE+VIEWS&color=2F6FCE&style=flat-square"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+deekshith@d-os:~$ whoami
+Ravikoti Deekshith — Software Engineer
+Backend · AI · Security
+```
+
+<br/>
+
+**Building reliable systems that scale.**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0A,50:151515,100:2F6FCE&height=110&section=footer"/>
