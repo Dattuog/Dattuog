@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ravikoti-deekshith.vercel.app/">
 <img src="https://img.shields.io/badge/D%2FOS-PORTFOLIO-F8F6F1?style=for-the-badge&labelColor=0B0B0A&color=2F6FCE"/>
 </a>
 
