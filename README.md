@@ -376,7 +376,7 @@ Evaluation framework for studying hallucination and sycophancy in Retrieval-Augm
 
 **Gaurdian**
 
-`2036`
+`2180`
 
 Top **1.6%**
 
