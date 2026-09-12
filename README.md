@@ -374,11 +374,11 @@ Evaluation framework for studying hallucination and sycophancy in Retrieval-Augm
 
 ### 🏆 LeetCode
 
-**Knight**
+**Gaurdian**
 
 `2036`
 
-Top **2.1%**
+Top **1.6%**
 
 </td>
 
@@ -388,7 +388,7 @@ Top **2.1%**
 
 **Expert**
 
-`1625`
+`1860`
 
 Max Rating
 
