@@ -1,122 +1,66 @@
+<!-- Original graphics and layout inspired by Sh4den's GitHub profile. -->
 <div align="center">
-
-<img src="assets/header.svg" width="100%" alt="Ravikoti Deekshith — backend · ai systems · security">
-
-<br><br>
-
-<a href="https://ravikoti-deekshith.vercel.app/">
-<img src="https://img.shields.io/badge/D%2FOS-Portfolio-F8F6F1?style=flat-square&labelColor=0B0B0A&color=2F6FCE"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/deekshith-ravikoti-b65ba9225/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F8F6F1?style=flat-square&labelColor=0B0B0A&color=1F1F1D"/></a>
-&nbsp;
-<a href="mailto:prsds10082003@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach_out-F8F6F1?style=flat-square&labelColor=0B0B0A&color=9A896F"/></a>
-&nbsp;
-<a href="https://github.com/dattuog">
-<img src="https://img.shields.io/badge/GitHub-dattuog-F8F6F1?style=flat-square&labelColor=0B0B0A&color=1F1F1D"/></a>
-
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/welcome-mobile.svg" />
+    <img src="assets/welcome.svg" width="100%" alt="Ravikoti Deekshith — Backend, AI Systems, Security Automation" />
+  </picture>
+  <br /><br />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg" />
+    <img src="assets/profile.svg" width="100%" alt="Software Developer at C3iHub, IIT Kanpur. IIT BHU graduate. Focus: backend engineering, AI agents and retrieval, SOC and SOAR automation. Stack: Python, C++, FastAPI, PostgreSQL, Node.js, Redis, Docker, React." />
+  </picture>
+  <br /><br />
+  <a href="https://ravikoti-deekshith.vercel.app/"><img src="assets/portfolio-link.svg" width="150" alt="Visit my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deekshith-ravikoti-b65ba9225/"><img src="assets/linkedin-link.svg" width="150" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:prsds10082003@gmail.com"><img src="assets/email-link.svg" width="150" alt="Email me" /></a>
 </div>
 
-<br>
+<br />
 
-Backend engineer at **C3iHub, IIT Kanpur**, building SOAR automation and the services behind a security operations platform. Before that, LLM-based threat scoring over 100K+ log events at Seekvens.ai and clinical RAG pipelines at Edvenswa. Final-year dual degree at IIT (BHU) Varanasi.
+<p align="center">I build backend services, AI agents, and security automation.<br />Previously: <b>Seekvens.ai</b> &amp; <b>Edvenswa Tech</b>.</p>
 
-I gravitate toward problems where correctness and latency both matter — distributed systems, retrieval pipelines, and anything that has to hold up under load.
+<br />
 
-<br>
+<h2 align="center">Selected Projects</h2>
+<img src="assets/projects.svg" width="100%" alt="Selected projects" />
 
-## `01` &nbsp; Work
-
-**C3iHub, IIT Kanpur** &nbsp;·&nbsp; Backend Developer, SOC &nbsp;&nbsp;`Jun 2026 — present`<br>
-<sub>SOAR backend systems · PostgreSQL migrations · security tool integrations</sub>
-
-**Seekvens.ai** &nbsp;·&nbsp; Software Engineer Intern &nbsp;&nbsp;`May — Jul 2025`<br>
-<sub>LLM threat scoring across 100K+ log events, cutting alert noise by 80%+ · voice agents · n8n automation</sub>
-
-**Edvenswa Tech** &nbsp;·&nbsp; Software Engineer Intern &nbsp;&nbsp;`Dec 2024 — Jan 2025`<br>
-<sub>Healthcare RAG with OCR-backed PDF ingestion for clinical documents</sub>
-
-<br>
-
-## `02` &nbsp; Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [PAMA](YOUR_PAMA_REPO_URL)
-Personal AI memory agent.
-
-Retrieval over 2K+ indexed memories, ranked on a 70/30 relevance–recency blend with a 7-day temporal half-life. Three-layer architecture behind a FastAPI service.
-
-`Python` `FastAPI` `ChromaDB` `RAG` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-#### [Distributed Rate Limiter](YOUR_RATE_LIMITER_REPO_URL)
-Rate limiting for horizontally scaled services.
-
-Redis + Lua sliding window holding 800+ req/s across 3 Node instances, adding under 5 ms of latency in a 50K-request load test.
-
-`Node.js` `Redis` `Express` `Lua`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [YesManTest](YOUR_YESMANTEST_REPO_URL)
-RAG reliability benchmarking.
-
-Evaluation harness for measuring hallucination and sycophancy in retrieval-augmented systems, scored with RAGAS.
-
-`LangChain` `ChromaDB` `RAGAS`
-
-</td>
-<td width="50%" valign="top">
-
-#### [D/OS](https://ravikoti-deekshith.vercel.app/)
-A portfolio built as an operating system.
-
-Draggable windows, a virtual filesystem, spotlight search, an interactive terminal, and a resident assistant that answers questions about my work.
-
-`React` `TypeScript`
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Dattuog/Personal-AI-Memory-Agent"><img src="assets/pama.svg" width="100%" alt="PAMA project illustration" /></a>
+      <h3><a href="https://github.com/Dattuog/Personal-AI-Memory-Agent">PAMA</a></h3>
+      <p>Personal AI memory with semantic retrieval, recency ranking, reminders, and multi-step queries.</p>
+      <p><sub>Python · FastAPI · ChromaDB · Docker</sub></p>
+      <p><a href="https://github.com/Dattuog/Personal-AI-Memory-Agent"><b>View repository ↗</b></a></p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Dattuog/personal-finance"><img src="assets/finpilot.svg" width="100%" alt="FinPilot AI project illustration" /></a>
+      <h3><a href="https://github.com/Dattuog/personal-finance">FinPilot AI</a></h3>
+      <p>A personal-finance app with deterministic analytics and optional AI explanations. In development.</p>
+      <p><sub>Next.js · TypeScript · PostgreSQL · Prisma</sub></p>
+      <p><a href="https://github.com/Dattuog/personal-finance"><b>View repository ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Dattuog/eterna_labs_assignment"><img src="assets/axiom.svg" width="100%" alt="Axiom Pulse project illustration" /></a>
+      <h3><a href="https://github.com/Dattuog/eterna_labs_assignment">Axiom Pulse</a></h3>
+      <p>A token-discovery interface with simulated live prices, sorting, and rich interactions.</p>
+      <p><sub>Next.js · TypeScript · Redux · React Query</sub></p>
+      <p><a href="https://github.com/Dattuog/eterna_labs_assignment"><b>View repository ↗</b></a></p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://ravikoti-deekshith.vercel.app/"><img src="assets/portfolio.svg" width="100%" alt="Developer Portfolio project illustration" /></a>
+      <h3><a href="https://ravikoti-deekshith.vercel.app/">Developer Portfolio</a></h3>
+      <p>My work, projects, and background, collected in one place.</p>
+      <p><sub>React · Web development</sub></p>
+      <p><a href="https://ravikoti-deekshith.vercel.app/"><b>Visit portfolio ↗</b></a></p>
+    </td>
+  </tr>
 </table>
 
-<br>
+<br />
 
-## `03` &nbsp; Stack
-
-<table>
-<tr><td><b>Languages</b></td><td>Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript</td></tr>
-<tr><td><b>Backend</b></td><td>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; REST &nbsp;·&nbsp; microservices</td></tr>
-<tr><td><b>Data</b></td><td>PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Redis &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; ChromaDB</td></tr>
-<tr><td><b>Infra</b></td><td>Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Linux</td></tr>
-<tr><td><b>AI</b></td><td>RAG &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; agents &nbsp;·&nbsp; evaluation &nbsp;·&nbsp; n8n</td></tr>
-</table>
-
-<br>
-
-## `04` &nbsp; Elsewhere
-
-<div align="center">
-
-| LeetCode | Codeforces | CodeChef | Solved |
-|:--:|:--:|:--:|:--:|
-| **Guardian** · `2180` | **Expert** · `1860` | **4★** · `1813` | **1500+** |
-
-<br>
-
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=dattuog&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=808080&icon_color=2F6FCE&hide=issues" alt="GitHub stats">
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattuog&layout=compact&hide_border=true&bg_color=00000000&title_color=2F6FCE&text_color=808080" alt="Top languages">
-
-<br><br>
-
-<sub>Building reliable systems that scale.</sub>
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="Building reliable systems, one commit at a time." />

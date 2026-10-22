@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="85" viewBox="0 0 1280 85" role="img" aria-labelledby="title">
+<title id="title">Selected projects</title>
+<defs><linearGradient id="gold"><stop stop-color="#f9d77b"/><stop offset="1" stop-color="#c99523"/></linearGradient></defs>
+<style>text{font-family:'DejaVu Sans Mono',monospace}.cursor{animation:blink 1.4s step-end infinite}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect width="1280" height="85" rx="10" fill="#090b0f"/><path d="M32 43H426 M854 43H1248" stroke="#403b29"/><text x="640" y="50" fill="#e6b84b" font-size="24" xml:space="preserve" text-anchor="middle">~/ selected projects</text></svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title">
+<title id="title">Ravikoti Deekshith — Backend, AI, Security Automation</title>
+<defs><linearGradient id="gold"><stop stop-color="#f9d77b"/><stop offset="1" stop-color="#c99523"/></linearGradient></defs>
+<style>text{font-family:'DejaVu Sans Mono',monospace}.cursor{animation:blink 1.4s step-end infinite}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect width="600" height="180" rx="12" fill="#090b0f"/><path d="M42 18H18V42 M558 18H582V42 M18 138V162H42 M558 162H582V138" fill="none" stroke="#e6b84b" stroke-width="2"/><text x="300" y="46" fill="#9ba4b4" font-size="20" xml:space="preserve" text-anchor="middle">~ ❯ cat hello.txt</text><text x="300" y="98" fill="url(#gold)" font-size="36" xml:space="preserve" font-weight="bold" text-anchor="middle">Ravikoti Deekshith</text><text x="300" y="134" fill="#9ba4b4" font-size="18" xml:space="preserve" text-anchor="middle">BACKEND / AI / SECURITY AUTOMATION</text></svg>

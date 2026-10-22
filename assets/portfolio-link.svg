@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="38" viewBox="0 0 150 38" role="img" aria-labelledby="title">
+<title id="title">Portfolio ↗</title>
+<defs><linearGradient id="gold"><stop stop-color="#f9d77b"/><stop offset="1" stop-color="#c99523"/></linearGradient></defs>
+<style>text{font-family:'DejaVu Sans Mono',monospace}.cursor{animation:blink 1.4s step-end infinite}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect x="1" y="1" width="148" height="36" rx="6" fill="#171b22" stroke="#403b29"/><text x="75" y="25" fill="#e6e9ef" font-size="15" xml:space="preserve" text-anchor="middle">Portfolio ↗</text></svg>
