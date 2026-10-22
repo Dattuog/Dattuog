@@ -6,8 +6,10 @@
   </picture>
   <br /><br />
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg" />
-    <img src="assets/profile.svg" width="100%" alt="Software Developer at C3iHub, IIT Kanpur. IIT BHU graduate. Focus: backend engineering, AI agents and retrieval, SOC and SOAR automation. Stack: Python, C++, FastAPI, PostgreSQL, Node.js, Redis, Docker, React." />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/profile-mobile.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/profile-mobile.gif" />
+    <img src="assets/profile.gif" width="100%" alt="Animated typing: Software Developer at C3iHub, IIT Kanpur. IIT BHU graduate. Focus: backend engineering, AI agents and retrieval, SOC and SOAR automation. Stack: Python, C++, FastAPI, PostgreSQL, Node.js, Redis, Docker, React." />
   </picture>
   <br /><br />
   <a href="https://ravikoti-deekshith.vercel.app/"><img src="assets/portfolio-link.svg" width="150" alt="Visit my portfolio" /></a>
