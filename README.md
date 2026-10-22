@@ -47,11 +47,11 @@
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Dattuog/eterna_labs_assignment"><img src="assets/axiom.svg" width="100%" alt="Axiom Pulse project illustration" /></a>
-      <h3><a href="https://github.com/Dattuog/eterna_labs_assignment">Axiom Pulse</a></h3>
-      <p>A token-discovery interface with simulated live prices, sorting, and rich interactions.</p>
-      <p><sub>Next.js · TypeScript · Redux · React Query</sub></p>
-      <p><a href="https://github.com/Dattuog/eterna_labs_assignment"><b>View repository ↗</b></a></p>
+      <a href="https://github.com/Dattuog/AutoCollections-Research"><img src="assets/autocollections.svg" width="100%" alt="AutoCollections Research project illustration" /></a>
+      <h3><a href="https://github.com/Dattuog/AutoCollections-Research">AutoCollections Research</a></h3>
+      <p>50 autonomous experiments; +29.2% hidden-test simulated utility over a frozen baseline, within a 35% human-escalation cap.</p>
+      <p><sub>Python · scikit-learn · pandas · Streamlit</sub></p>
+      <p><a href="https://github.com/Dattuog/AutoCollections-Research"><b>View repository ↗</b></a></p>
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://ravikoti-deekshith.vercel.app/"><img src="assets/portfolio.svg" width="100%" alt="Developer Portfolio project illustration" /></a>

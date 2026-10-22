@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="160" viewBox="0 0 560 160" role="img" aria-labelledby="title">
+<title id="title">AutoCollections Research: hypothesis, candidate, evaluation, repeat</title>
+<rect x="1" y="1" width="558" height="158" rx="12" fill="#090b0f" stroke="#403b29"/>
+<g font-family="DejaVu Sans Mono,monospace">
+<text x="24" y="32" fill="#9ba4b4" font-size="13">03 / AUTONOMOUS POLICY RESEARCH</text>
+<g fill="#171b22" stroke="#66532c">
+<rect x="30" y="60" width="140" height="45" rx="7"/>
+<rect x="210" y="60" width="140" height="45" rx="7"/>
+<rect x="390" y="60" width="140" height="45" rx="7"/>
+</g>
+<g fill="#e6b84b" font-size="15" text-anchor="middle">
+<text x="100" y="88">HYPOTHESIS</text><text x="280" y="88">CANDIDATE</text><text x="460" y="88">EVALUATE</text>
+</g>
+<path d="M174 82H202M194 77L202 82L194 87M354 82H382M374 77L382 82L374 87M460 110V130H100V111M95 119L100 111L105 119" stroke="#e6b84b" stroke-width="1.5" fill="none"/>
+<rect x="214" y="119" width="132" height="22" fill="#090b0f"/>
+<text x="280" y="135" text-anchor="middle" fill="#9ba4b4" font-size="12">50 EXPERIMENTS</text>
+</g></svg>
